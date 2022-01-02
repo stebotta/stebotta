@@ -6,3 +6,4 @@
 <br />
 </div>
 
+ ![Snake animation](https://github.com/stebotta/stebotta/blob/output/github-contribution-grid-snake.svg)
